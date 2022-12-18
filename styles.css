@@ -1,0 +1,68 @@
+
+.box{
+    display: block;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
+button{
+    padding: 7px;
+    font-family: Tahoma;
+    font-weight: bold;
+    border-radius: 5px;
+    
+    border-color: aquamarine;
+}
+.page1{
+    display: block;
+}
+
+.page2{
+    display: none;
+}
+.heading{
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.heading1{
+    margin: auto;
+    padding: 15px;
+    text-align: center;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.formbox{
+    width: 100%;
+    height: fit-content;
+    background-color: aquamarine;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+form{
+    padding:15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+input[type=text] {
+    width: 75%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 7px;
+    border-color: aquamarine;
+}
+
+.info{
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 10ox;
+}
